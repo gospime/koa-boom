@@ -28,12 +28,15 @@
   },
   "homepage": "https://github.com/gospime/koa-boom#readme",
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^7.1.0"
   },
   "engines": {
     "node": ">=10.0.0"
   },
   "dependencies": {
     "@hapi/boom": "^8.0.1"
+  },
+  "optionalDependencies": {
+    "minimist": "^1.2.5"
   }
 }
